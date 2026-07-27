@@ -11,7 +11,7 @@ export const personalData = {
   location: "Mumbai / Indore, India",
   status: "Available for Full Stack & AI Engineering Opportunities",
   bio: "MBA Tech Computer Engineering student combining software development, data analytics, and embedded systems engineering. Driven to build AI-powered applications, scalable full-stack web platforms, and intelligent problem-solving tools.",
-  email: "lakshayagrawal@gmail.com",
+  email: "lakshyaagrawal709@gmail.com",
   github: "https://github.com/lakshayagrawal",
   linkedin: "https://linkedin.com/in/lakshayagrawal",
   leetcode: "https://leetcode.com/lakshayagrawal",
