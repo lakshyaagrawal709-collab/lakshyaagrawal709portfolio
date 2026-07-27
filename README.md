@@ -1,5 +1,7 @@
 # Lakshay Agrawal — World-Class Developer Portfolio OS
 
+🌐 **Live Website**: [https://lakshyaagrawal709-collab.github.io/lakshyaagrawal709portfolio/](https://lakshyaagrawal709-collab.github.io/lakshyaagrawal709portfolio/)
+
 An Awwwards-grade, high-performance personal developer portfolio web application built for **Lakshay Agrawal** (MBA Tech Computer Engineering Student, Full Stack Developer & Data Analytics Enthusiast).
 
 Featuring a Linear/Vercel/Apple dark glassmorphic aesthetic, custom Framer Motion spring physics, 10 detailed engineering projects, interactive widgets, embedded Linux CLI terminal, Command Palette (`Ctrl + K`), and complete SEO optimization.
