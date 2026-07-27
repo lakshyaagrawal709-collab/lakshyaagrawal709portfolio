@@ -18,6 +18,10 @@ export default function CaseStudyModal({ project, onClose }) {
             <img
               src={project.image}
               alt={project.title}
+              onError={(e) => {
+                e.target.onerror = null;
+                e.target.src = 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80';
+              }}
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-[#0D1322] via-[#0D1322]/60 to-transparent"></div>
